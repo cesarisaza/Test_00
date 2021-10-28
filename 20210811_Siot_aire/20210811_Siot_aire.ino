@@ -12,6 +12,8 @@
 
 // Test GuiHub
 
+// Second change....
+
 // Red por defecto 
 //const char* ssid = "TECSIOT";     
 //const char* password = "TELEMATICA"; 
